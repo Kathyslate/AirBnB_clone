@@ -28,8 +28,10 @@ class TestHBNBCommand_help(unittest.TestCase):
         """Sets up an instance of HBNBCommand for testing."""
         self.console = HBNBCommand()
 
+
 class TestHBNBCommand_exit(unittest.TestCase):
     """Unittests for testing exiting from the HBNB command interpreter."""
+
 
 class TestHBNBCommand_create(unittest.TestCase):
     """Unittests for testing create from the HBNB command interpreter."""
